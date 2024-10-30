@@ -1,0 +1,32 @@
+.bhst_settings_form {
+	width: 60%;
+	background: #fff;
+	padding: 20px 30px;
+	border-radius: 4px;
+	float: left;
+}
+.bhst_settings_form #setting-error-settings_updated{
+	margin-left: 0;
+}
+.bhst_settings_form #submit{
+	background-image: linear-gradient(92.83deg, #ff7426 0, #f93a13 100%);
+	padding: 10px 35px;
+	border: 1px solid transparent;
+	font-size: 17px;
+}
+
+
+.bhst_settings_form input[type='radio'] {
+  padding: 2px !important;
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border-radius: 25px;
+  margin-bottom: 0;
+  margin-right: 8px;
+}
+
+.ratio_opt label{
+	display: inline-block;
+	margin-right: 25px;
+}

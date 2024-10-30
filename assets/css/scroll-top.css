@@ -1,0 +1,20 @@
+/* BH Scroll Top */
+
+#go-top {
+  display: none;
+  font-size: 30px;
+  position: fixed;
+  bottom: 200px;
+  right: 50px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  width: 45px;
+  height: 45px;
+  line-height: 40px;
+  text-align: center;
+  cursor: pointer;
+  transition: .5s;
+}
+#go-top svg{
+	width: 12px;
+}
